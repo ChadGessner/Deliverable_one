@@ -1,0 +1,15 @@
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\bin\Debug\net6.0\Deliverable_one.exe
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\bin\Debug\net6.0\Deliverable_one.deps.json
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\bin\Debug\net6.0\Deliverable_one.runtimeconfig.json
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\bin\Debug\net6.0\Deliverable_one.dll
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\bin\Debug\net6.0\Deliverable_one.pdb
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\obj\Debug\net6.0\Deliverable_one.csproj.AssemblyReference.cache
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\obj\Debug\net6.0\Deliverable_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\obj\Debug\net6.0\Deliverable_one.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\obj\Debug\net6.0\Deliverable_one.AssemblyInfo.cs
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\obj\Debug\net6.0\Deliverable_one.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\obj\Debug\net6.0\Deliverable_one.dll
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\obj\Debug\net6.0\refint\Deliverable_one.dll
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\obj\Debug\net6.0\Deliverable_one.pdb
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\obj\Debug\net6.0\Deliverable_one.genruntimeconfig.cache
+C:\Users\Chad\Desktop\Grand Circus\Deliverable_one\Deliverable_one\obj\Debug\net6.0\ref\Deliverable_one.dll
